@@ -1,10 +1,6 @@
 ### 👋Hi there, I'm Malik 👋
 I'm a Father, and Developer!
 
-<!--
-**MalikCole1/MalikCole1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on a BugTracker.
 - 🌱 I’m currently learning Visual Studio 
 - 👯 I’m looking to collaborate on more open source projects.
