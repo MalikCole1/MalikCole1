@@ -6,6 +6,7 @@ I'm a Father, and Developer!
 - 👯 I’m looking to collaborate on more open source projects.
 - ⚡ Fun fact: I'm an visual artist.
 
+---
 
 ### Languages and Tools:
 
@@ -33,6 +34,8 @@ I'm a Father, and Developer!
 
 <br />
 <br />
+
+---
 <!--
 
 ### Connect with me:
@@ -49,4 +52,26 @@ I'm a Father, and Developer!
 [twitter]: https://twitter.com
 [linkedin]: https://linkedin.com
 [instagram]: https://instagram.com
+-->
+<!--
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+
+-
+-
+
+<!-- YOUTUBE:END -->
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+-
+-
+
+<!-- BLOG-POST-LIST:END -->
+
+---
 -->
